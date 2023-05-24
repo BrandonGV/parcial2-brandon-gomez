@@ -1,0 +1,68 @@
+{
+    "raza": {
+        "orcos": {
+            "clases": {
+                "guerrero": {
+                    "vida": 100,
+                    "id": 1,
+                    "ataque": 50,
+                    "defensa": 30,
+                    "poder m\u00e1gico": 20
+                },
+                "chaman": {
+                    "vida": 80,
+                    "id": 2,
+                    "ataque": 20,
+                    "defensa": 40,
+                    "poder m\u00e1gico": 60
+                },
+                "jinete": {
+                    "vida": 120,
+                    "id": 3,
+                    "ataque": 70,
+                    "defensa": 20,
+                    "poder m\u00e1gico": 10
+                }
+            }
+        },
+        "humanos": {
+            "clases": {
+                "guerrero": {
+                    "vida": 90,
+                    "id": 1,
+                    "ataque": 40,
+                    "defensa": 35,
+                    "poder m\u00e1gico": 15
+                },
+                "jinete": {
+                    "vida": 100,
+                    "id": 2,
+                    "ataque": 60,
+                    "defensa": 25,
+                    "poder m\u00e1gico": 5
+                },
+                "mago": {
+                    "vida": 70,
+                    "id": 3,
+                    "ataque": 30,
+                    "defensa": 20,
+                    "poder m\u00e1gico": 80
+                },
+                "recolector": {
+                    "vida": 80,
+                    "id": 4,
+                    "ataque": 20,
+                    "defensa": 15,
+                    "poder m\u00e1gico": 10
+                },
+                "observador": {
+                    "vida": 60,
+                    "id": 5,
+                    "ataque": 10,
+                    "defensa": 10,
+                    "poder m\u00e1gico": 40
+                }
+            }
+        }
+    }
+}

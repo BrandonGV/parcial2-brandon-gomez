@@ -1,0 +1,67 @@
+{
+    "house stark": {
+        "rickard": {
+            "hijos": [
+                "bejem",
+                "brandon",
+                "lyanna",
+                "wylla",
+                "eddard"
+            ]
+        },
+        "wylla": {
+            "hijos": [
+                "jon snow"
+            ]
+        },
+        "eddard": {
+            "hijos": [
+                "robb",
+                "sansa",
+                "arya",
+                "bran",
+                "rickon"
+            ]
+        }
+    },
+    "house tully": {
+        "robik": {
+            "hijos": [
+                "catelyn",
+                "lysa",
+                "edmure"
+            ]
+        },
+        "hoster": {
+            "hijos": [
+                "catelyn",
+                "lysa",
+                "edmure"
+            ]
+        }
+    },
+    "catelyn": {
+        "hijos": [
+            "robb",
+            "sansa",
+            "arya",
+            "bran",
+            "rickon"
+        ]
+    },
+    "robb": {
+        "perro": "gray wind"
+    },
+    "sansa": {
+        "perro": "lody"
+    },
+    "arya": {
+        "perro": "nymeric"
+    },
+    "bran": {
+        "perro": "summer"
+    },
+    "rickon": {
+        "perro": "shaggydog"
+    }
+}
