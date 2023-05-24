@@ -115,7 +115,7 @@ json_data_modificado = json.dumps(data)
 
 # Imprimir el JSON con la casa Unisangil y sus integrantes agregados
 print(json_data_modificado)
-print("PUNTO G.  modificar nombre del personaje tyrion de la casa lanister por tyrion king")
+print("PUNTO H.  modificar nombre del personaje tyrion de la casa lanister por tyrion king")
 
 # Agregar la casa Lannister con Tyrion
 data["house lannister"] = {
